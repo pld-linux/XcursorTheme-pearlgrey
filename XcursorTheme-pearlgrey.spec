@@ -1,6 +1,6 @@
 %define		_name pearlgrey
 Summary:	A simple, small and crispy grey cursor theme
-Summary(pl):	Prosty, ma³y i szary motyw kursorów	
+Summary(pl):	Prosty, ma³y i szary motyw kursorów
 Name:		XcursorTheme-%{_name}
 Version:	1.0
 Release:	1
@@ -10,8 +10,8 @@ Source0:	http://www.kde-look.org/content/files/11313-%{_name}-%{version}.tar.gz
 # Source0-md5:	c9aee12d90d33efa08b9d724fcb0cec8
 URL:		http://www.kde-look.org/content/show.php?content=11313
 BuildRequires:	XFree86 >= 4.3
-BuildArch:	noarch
 Requires:	XFree86 >= 4.3
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
