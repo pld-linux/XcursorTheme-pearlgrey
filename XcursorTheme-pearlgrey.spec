@@ -1,6 +1,6 @@
 %define		_name pearlgrey
 Summary:	A simple, small and crispy grey cursor theme
-Summary(pl):	Motyw kursorów autorstwa Jimmaca (g³ówny grafik GNOME).
+Summary(pl):	Prosty, ma³y i szary motyw kursorów	
 Name:		XcursorTheme-%{_name}
 Version:	1.0
 Release:	1
