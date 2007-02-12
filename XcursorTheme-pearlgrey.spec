@@ -1,6 +1,6 @@
 %define		_name pearlgrey
 Summary:	A simple, small and crispy grey cursor theme
-Summary(pl):	Prosty, ma≥y i szary motyw kursorÛw
+Summary(pl.UTF-8):   Prosty, ma≈Çy i szary motyw kursor√≥w
 Name:		XcursorTheme-%{_name}
 Version:	1.0
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 This theme contains simple, clear, grey and very usable cursors.
 
-%description -l pl
-Ten motyw zawiera proste, wyraºne, szare i bardzo funkcjonalne
+%description -l pl.UTF-8
+Ten motyw zawiera proste, wyra≈∫ne, szare i bardzo funkcjonalne
 kursory.
 
 %prep
